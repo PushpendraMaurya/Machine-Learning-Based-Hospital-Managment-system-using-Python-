@@ -1,0 +1,12 @@
+
+*-------------------This is Receptionist Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Preeti----------*-----------*----------*
+Doctor  Name :- Preeti
+Doctor Age  :- 35
+Doctor Email :- preeti@gmail.com
+Doctor Qualification :- MBBS
+Doctor Specialist :- child
+Doctor Password :- 123
+
+*--------------*------ Your Information End Mr/Mrs .Preeti ---------*----------------*

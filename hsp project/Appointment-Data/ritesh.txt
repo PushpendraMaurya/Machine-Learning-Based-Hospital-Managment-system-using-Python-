@@ -1,0 +1,11 @@
+
+*-------------------This is Appointment Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .ritesh----------*-----------*----------*
+Appointment For :- body
+Doctor Name  :- abhishek
+Patient Name :- ritesh
+Appointment identity :- Admin
+Appointment DateTime :- 03,02,2023
+
+*--------------*------ Your Informationritesh ---------*----------------*

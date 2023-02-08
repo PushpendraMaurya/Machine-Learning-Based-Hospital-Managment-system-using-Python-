@@ -1,0 +1,12 @@
+
+*-------------------This is Receptionist Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Rakesh----------*-----------*----------*
+Receptionist Name :- Rakesh
+Receptionist Contact :- 7417418529
+Receptionist Age :- 54
+Receptionist Email :- rakesh@gmail.com
+Receptionist Address :- Thane
+Receptionist Password :- 123
+
+*--------------*------ Your Information End MR/Mrs.Rakesh ---------*----------------*

@@ -1,0 +1,12 @@
+
+*-------------------This is Receptionist Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Chanda----------*-----------*----------*
+Receptionist Name :- Chanda
+Receptionist Contact :- 7897894562
+Receptionist Age :- 45
+Receptionist Email :- chanda@gmail.com
+Receptionist Address :- Manorma Nagar
+Receptionist Password :- 123
+
+*--------------*------ Your Information End MR/Mrs.Chanda ---------*----------------*

@@ -1,0 +1,12 @@
+
+*-------------------This is Receptionist Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Akanksha----------*-----------*----------*
+Doctor  Name :- Akanksha
+Doctor Age  :- 54
+Doctor Email :- akanksha@gmail.com
+Doctor Qualification :- MBBS
+Doctor Specialist :- Adult
+Doctor Password :- 123
+
+*--------------*------ Your Information End Mr/Mrs .Akanksha ---------*----------------*

@@ -1,0 +1,12 @@
+
+*-------------------This is Receptionist Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Pushpa----------*-----------*----------*
+Receptionist Name :- Pushpa
+Receptionist Contact :- 7897897895
+Receptionist Age :- 30
+Receptionist Email :- pushpa@gmail.com
+Receptionist Address :- Manpada
+Receptionist Password :- 123
+
+*--------------*------ Your Information End MR/Mrs.Pushpa ---------*----------------*

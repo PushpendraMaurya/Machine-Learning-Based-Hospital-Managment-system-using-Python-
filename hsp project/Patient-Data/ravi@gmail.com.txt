@@ -1,0 +1,12 @@
+
+*-------------------This is Patient Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Ravi Raj----------*-----------*----------*
+Patient  Name :- Ravi Raj
+Patient Email  :- ravi@gmail.com
+Patient Age :- 22
+Patient Contact :- 7755336611
+Patient Treatment  :- Adult
+Patient Password :- 123
+
+*--------------*------ Your Information End Mr/Mrs .Ravi Raj ---------*----------------*

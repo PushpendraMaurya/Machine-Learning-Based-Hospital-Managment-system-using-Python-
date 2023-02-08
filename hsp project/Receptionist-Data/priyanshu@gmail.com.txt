@@ -1,0 +1,12 @@
+
+*-------------------This is Receptionist Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Priyanshu----------*-----------*----------*
+Receptionist Name :- Priyanshu
+Receptionist Contact :- 8850660757
+Receptionist Age :- 22
+Receptionist Email :- priyanshu@gmail.com
+Receptionist Address :- Thane
+Receptionist Password :- 123
+
+*--------------*------ Your Information End MR/Mrs.Priyanshu ---------*----------------*

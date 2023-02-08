@@ -1,0 +1,12 @@
+
+*-------------------This is Receptionist Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Pooja----------*-----------*----------*
+Receptionist Name :- Pooja
+Receptionist Contact :- 7894561235
+Receptionist Age :- 26
+Receptionist Email :- pooja@gmail.com
+Receptionist Address :- Thane
+Receptionist Password :- 123
+
+*--------------*------ Your Information End MR/Mrs.Pooja ---------*----------------*

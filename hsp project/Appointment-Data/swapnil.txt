@@ -1,0 +1,11 @@
+
+*-------------------This is Appointment Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .swapnil----------*-----------*----------*
+Appointment For :- adult
+Doctor Name  :- akanksha
+Patient Name :- swapnil
+Appointment identity :- Admin
+Appointment DateTime :- 03,02,2023
+
+*--------------*------ Your Informationswapnil ---------*----------------*

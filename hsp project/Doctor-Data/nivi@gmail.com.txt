@@ -1,0 +1,12 @@
+
+*-------------------This is Receptionist Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Nivi----------*-----------*----------*
+Doctor  Name :- Nivi
+Doctor Age  :- 35
+Doctor Email :- nivi@gmail.com
+Doctor Qualification :- MBBS
+Doctor Specialist :- ENT
+Doctor Password :- 123
+
+*--------------*------ Your Information End Mr/Mrs .Nivi ---------*----------------*

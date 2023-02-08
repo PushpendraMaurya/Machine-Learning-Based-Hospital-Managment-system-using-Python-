@@ -1,0 +1,11 @@
+
+*-------------------This is Appointment Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .ravi raj----------*-----------*----------*
+Appointment For :- adult
+Doctor Name  :- komal
+Patient Name :- ravi raj
+Appointment identity :- Admin
+Appointment DateTime :- 03,02,2023
+
+*--------------*------ Your Informationravi raj ---------*----------------*

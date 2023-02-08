@@ -1,0 +1,12 @@
+
+*-------------------This is Receptionist Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .PRINCE TIWARI----------*-----------*----------*
+Doctor  Name :- PRINCE TIWARI
+Doctor Age  :- 80
+Doctor Email :- prince@gmail.com
+Doctor Qualification :- ENT Specialization
+Doctor Specialist :- ENT
+Doctor Password :- 123
+
+*--------------*------ Your Information End Mr/Mrs .PRINCE TIWARI ---------*----------------*

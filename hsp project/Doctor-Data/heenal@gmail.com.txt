@@ -1,0 +1,12 @@
+
+*-------------------This is Receptionist Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Heenal----------*-----------*----------*
+Doctor  Name :- Heenal
+Doctor Age  :- 25
+Doctor Email :- heenal@gmail.com
+Doctor Qualification :- MBBS
+Doctor Specialist :- skin
+Doctor Password :- 123
+
+*--------------*------ Your Information End Mr/Mrs .Heenal ---------*----------------*

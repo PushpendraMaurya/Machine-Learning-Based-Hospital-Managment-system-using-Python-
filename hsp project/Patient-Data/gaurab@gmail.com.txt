@@ -1,0 +1,12 @@
+
+*-------------------This is Patient Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .gaurab----------*-----------*----------*
+Patient  Name :- gaurab
+Patient Email  :- gaurab@gmail.com
+Patient Age :- 24
+Patient Contact :- 7788994455
+Patient Treatment  :- Body
+Patient Password :- 123
+
+*--------------*------ Your Information End Mr/Mrs .gaurab ---------*----------------*

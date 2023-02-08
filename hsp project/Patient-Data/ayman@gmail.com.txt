@@ -1,0 +1,12 @@
+
+*-------------------This is Patient Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Ayman----------*-----------*----------*
+Patient  Name :- Ayman
+Patient Email  :- ayman@gmail.com
+Patient Age :- 55
+Patient Contact :- 7441122558
+Patient Treatment  :- Women
+Patient Password :- 123
+
+*--------------*------ Your Information End Mr/Mrs .Ayman ---------*----------------*

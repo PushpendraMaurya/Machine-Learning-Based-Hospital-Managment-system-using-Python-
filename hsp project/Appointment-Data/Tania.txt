@@ -1,0 +1,22 @@
+
+*-------------------This is Appointment Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Tania----------*-----------*----------*
+Appointment For :- women
+Doctor Name  :- kamal
+Patient Name :- Tania
+Appointment identity :- Admin
+Appointment DateTime :- 03,02,2023
+
+*--------------*------ Your InformationTania ---------*----------------*
+
+*-------------------This is Appointment Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Tania----------*-----------*----------*
+Appointment For :- Skin
+Doctor Name  :- Heenal
+Patient Name :- Tania
+Appointment identity :- Admin
+Appointment DateTime :- 03,02,2023
+
+*--------------*------ Your InformationTania ---------*----------------*

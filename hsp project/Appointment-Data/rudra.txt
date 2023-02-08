@@ -1,0 +1,11 @@
+
+*-------------------This is Appointment Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .rudra----------*-----------*----------*
+Appointment For :- child
+Doctor Name  :- satish
+Patient Name :- rudra
+Appointment identity :- Admin
+Appointment DateTime :- 03,02,2023
+
+*--------------*------ Your Informationrudra ---------*----------------*

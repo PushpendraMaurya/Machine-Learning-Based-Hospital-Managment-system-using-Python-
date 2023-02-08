@@ -1,0 +1,12 @@
+
+*-------------------This is Patient Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Rudra----------*-----------*----------*
+Patient  Name :- Rudra
+Patient Email  :- rudra@gmail.com
+Patient Age :- 5
+Patient Contact :- 7744112233
+Patient Treatment  :- Child
+Patient Password :- 123
+
+*--------------*------ Your Information End Mr/Mrs .Rudra ---------*----------------*

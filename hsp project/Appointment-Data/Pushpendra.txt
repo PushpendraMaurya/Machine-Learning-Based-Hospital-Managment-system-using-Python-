@@ -1,0 +1,22 @@
+
+*-------------------This is Appointment Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Pushpendra----------*-----------*----------*
+Appointment For :- Ent
+Doctor Name  :- Nivi
+Patient Name :- Pushpendra
+Appointment identity :- Admin
+Appointment DateTime :- 03,02,2023
+
+*--------------*------ Your InformationPushpendra ---------*----------------*
+
+*-------------------This is Appointment Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .pushpendra----------*-----------*----------*
+Appointment For :- skin
+Doctor Name  :- Akash
+Patient Name :- pushpendra
+Appointment identity :- Patient
+Appointment DateTime :- 07,02,2023
+
+*--------------*------ Your Informationpushpendra ---------*----------------*

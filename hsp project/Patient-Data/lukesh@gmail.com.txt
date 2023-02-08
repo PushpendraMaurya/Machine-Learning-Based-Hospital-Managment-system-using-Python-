@@ -1,0 +1,12 @@
+
+*-------------------This is Patient Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Lukesh----------*-----------*----------*
+Patient  Name :- Lukesh
+Patient Email  :- lukesh@gmail.com
+Patient Age :- 22
+Patient Contact :- 7744112266
+Patient Treatment  :- Skin
+Patient Password :- 123
+
+*--------------*------ Your Information End Mr/Mrs .Lukesh ---------*----------------*

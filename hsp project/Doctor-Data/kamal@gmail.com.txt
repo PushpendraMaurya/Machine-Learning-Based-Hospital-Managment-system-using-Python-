@@ -1,0 +1,12 @@
+
+*-------------------This is Receptionist Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .kamal----------*-----------*----------*
+Doctor  Name :- kamal
+Doctor Age  :- 45
+Doctor Email :- kamal@gmail.com
+Doctor Qualification :- MBBS
+Doctor Specialist :- women
+Doctor Password :- 123
+
+*--------------*------ Your Information End Mr/Mrs .kamal ---------*----------------*

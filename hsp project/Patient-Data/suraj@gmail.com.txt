@@ -1,0 +1,12 @@
+
+*-------------------This is Patient Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Suraj----------*-----------*----------*
+Patient  Name :- Suraj
+Patient Email  :- suraj@gmail.com
+Patient Age :- 25
+Patient Contact :- 7418529635
+Patient Treatment  :- Ent
+Patient Password :- 123
+
+*--------------*------ Your Information End Mr/Mrs .Suraj ---------*----------------*

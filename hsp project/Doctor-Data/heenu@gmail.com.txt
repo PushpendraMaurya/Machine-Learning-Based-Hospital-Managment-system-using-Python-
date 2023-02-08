@@ -1,0 +1,12 @@
+
+*-------------------This is Receptionist Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .heenu----------*-----------*----------*
+Doctor  Name :- heenu
+Doctor Age  :- 54
+Doctor Email :- heenu@gmail.com
+Doctor Qualification :- MBBS
+Doctor Specialist :- women
+Doctor Password :- 123
+
+*--------------*------ Your Information End Mr/Mrs .heenu ---------*----------------*

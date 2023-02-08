@@ -1,0 +1,22 @@
+
+*-------------------This is Appointment Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Lukesh----------*-----------*----------*
+Appointment For :- Skin
+Doctor Name  :- Akash
+Patient Name :- Lukesh
+Appointment identity :- Admin
+Appointment DateTime :- 03,02,2023
+
+*--------------*------ Your InformationLukesh ---------*----------------*
+
+*-------------------This is Appointment Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .lukesh----------*-----------*----------*
+Appointment For :- skin
+Doctor Name  :- akash
+Patient Name :- lukesh
+Appointment identity :- Receptionist
+Appointment DateTime :- 07,02,2023
+
+*--------------*------ Your Informationlukesh ---------*----------------*

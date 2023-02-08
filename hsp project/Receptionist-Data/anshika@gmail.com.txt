@@ -1,0 +1,12 @@
+
+*-------------------This is Receptionist Information  ------------*-----------*
+
+*--------------*-------Welcome to MR/Mrs .Anshika----------*-----------*----------*
+Receptionist Name :- Anshika
+Receptionist Contact :- 7845127845
+Receptionist Age :- 18
+Receptionist Email :- anshika@gmail.com
+Receptionist Address :- DOmbivali
+Receptionist Password :- 123
+
+*--------------*------ Your Information End MR/Mrs.Anshika ---------*----------------*
